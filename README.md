@@ -1,4 +1,4 @@
 # Project
 
-### Developed by Nautilus
-### 403170988
+##### Developed by Nautilus (Hossein Zahedi Adib)
+##### 403170988
