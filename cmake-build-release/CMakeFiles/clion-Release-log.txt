@@ -1,0 +1,9 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "Unix Makefiles" -S /root/Rogue -B /root/Rogue/cmake-build-release
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.2") 
+-- Checking for module 'sdl2'
+--   Found sdl2, version 2.0.20
+-- Checking for module 'SDL2_mixer'
+--   Found SDL2_mixer, version 2.0.4
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/Rogue/cmake-build-release
